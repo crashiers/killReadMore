@@ -10,7 +10,8 @@ ctrl+shift+f 全局搜索点击事件，看图操作，每个网站大差不离�
 ```
 
 ![](https://github.com/crashiers/killReadMeAll/blob/master/js1.png?raw=true)
-![](https://github.com/crashiers/killReadMeAll/blob/master/js1.png?raw=true)
+![](https://github.com/crashiers/killReadMeAll/blob/master/js2.png?raw=true)
+
 
 ```
 最后console命令行执行图二中js命令，破解完成。
